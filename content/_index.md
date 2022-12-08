@@ -4,7 +4,7 @@ title: 'Mohamed Allam'
 ---
 
 {{< lead >}}
-    Making the world a better place, one line of code at a time
+Making the world a better place, one line of code at a time
 {{< /lead >}}
 
 Hello, my name is Mohamed Allam. I am a self taught software developer, foremerly PHP & Laravel [(My Laravel blog)](https://laravelexample.com/), and currently [Go](https://go.dev/), and system programming. I am very passionate about cutting edge technologies, using them to solve real world problems.

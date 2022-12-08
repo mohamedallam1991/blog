@@ -13,6 +13,6 @@ You complicated code problems simplified. :heart_eyes:
 
 This section contains some blog posts that show how to write efficient Go code. You can choose a [category]({{< ref "categories" >}})  or [tag]({{< ref "tags" >}}) page.
 
-_**Sidenote:** This page is just `samples` content type and display article summaries._
+_**Sidenote:** If you want to read my `code samples` content head to the [gists section]({{< ref "gists" >}})._
 
 ---
