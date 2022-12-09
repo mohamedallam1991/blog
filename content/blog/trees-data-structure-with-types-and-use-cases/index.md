@@ -1,9 +1,11 @@
 ---
-title: "Trees data structure for beginners (with uses cases)"
+title: "Trees data structure with types (uses cases included)"
+slug: "trees-data-structure-with-types-and-use-cases"
 date: 2022-12-09
 description: "Trees are one of the prominent data structure out there, lets learn them step by step."
 tags: ["golang", "dsa", "trees"]
 showTableOfContents: true
+thumb:
 ---
 
 This articles breakdown the terminology used in trees data structure, as well as some types of trees and their use cases, to get familiar with them.
