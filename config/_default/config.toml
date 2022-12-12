@@ -4,7 +4,7 @@
 
 baseURL = "https://mohamedallam.tech/"
 defaultContentLanguage = "en"
-
+#  hugo --gc --minify -D -b $CF_PAGES_URL
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
@@ -12,8 +12,10 @@ summaryLength = 0
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-googleAnalytics = "G-GMKC6TE1L3"
 
 [sitemap]
   changefreq = 'Hourly'
   filename = 'sitemap.xml'
+
+
+googleAnalytics = "G-GMKC6TE1L3"
