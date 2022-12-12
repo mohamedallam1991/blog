@@ -13,3 +13,7 @@ summaryLength = 0
   home = ["HTML", "RSS", "JSON"]
 
 googleAnalytics = "G-GMKC6TE1L3"
+
+[sitemap]
+  changefreq = 'Hourly'
+  filename = 'sitemap.xml'
