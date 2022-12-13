@@ -15,7 +15,7 @@ enableSearch = true
 enableCodeCopy = true
 
 
-mainSections = ["blog", "gists"]
+mainSections = ["blog"]
 # robots = ""
 
 [header]
