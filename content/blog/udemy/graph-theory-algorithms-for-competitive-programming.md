@@ -6,6 +6,8 @@ tags: ["golang", "dsa", "trees"]
 showTableOfContents: true
 ---
 
+Graph theory remain challenging, especially in the scope of competitive programming, this is your best friend to succeed your next challenge.
+<!--more-->
 
 ## Course Syllabus
 - Length: 23H

@@ -7,6 +7,7 @@ showTableOfContents: true
 ---
 
 If you know and love mathematics, dont waste yuor time, this course is your best bet.
+<!--more-->
 
 ## Course Syllabus
 - Length: 56H

@@ -8,6 +8,7 @@ showTableOfContents: true
 
 
 This is one of the great courses in udemy, on the subject, and his graph theory course.
+<!--more-->
 
 ## Course Syllabus
 - Length: 8H

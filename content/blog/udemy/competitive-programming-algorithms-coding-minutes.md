@@ -6,6 +6,8 @@ tags: ["dsa", "trees"]
 showTableOfContents: true
 ---
 
+Competitive programming, is a lot of fun, competition like sports, but using what you know in the DSA world, this course will take you from not knowing anything at all, to actually compete.
+<!--more-->
 
 ## Course Syllabus
 - Length: 56H

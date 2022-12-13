@@ -6,8 +6,10 @@ tags: ["golang", "dsa", "trees"]
 showTableOfContents: true
 ---
 
+Coding interviews, remain one of the challenging tasks for software developers, this course will teach you what you need to make it through this time.
+<!--more-->
 
-# Course Syllabus
+## Course Syllabus
 - Length: 30H
 - Multi-select: Arrays, Graphs, Hashing (Unordered Maps Maps Sets), Hashing functions, Heap, Linked Lists, Queues, Stacks, Strings, Tries, Vectors
 - Original: https://www.udemy.com/course/cpp-data-structures-algorithms-levelup-prateek-narang/

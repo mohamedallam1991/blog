@@ -5,6 +5,9 @@ description: "Easy to Advanced Data Structures by."
 tags: ["golang", "dsa", "trees"]
 showTableOfContents: true
 ---
+Assuming you have leared that Dynamic programming is your obstacle, after taking this course, you will thank me.
+
+<!--more-->
 
 ## Course Syllabus
 - Length: 44H
