@@ -1,7 +1,7 @@
 ---
 title: "Data Structures & Algorithms, Level-up for Coding Interviews"
 date: 2022-12-13
-description: "Easy to Advanced Data Structures by."
+description: "Master problem solving for Coding Interviews, ace Data Structures & Algorithms by solving over 150 important questions!"
 tags: ["golang", "dsa", "trees"]
 showTableOfContents: true
 ---
