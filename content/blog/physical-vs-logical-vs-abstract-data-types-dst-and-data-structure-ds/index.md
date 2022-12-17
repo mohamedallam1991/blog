@@ -2,7 +2,7 @@
 title: "Physical vs Logical vs Abstract Data Types (DST) and data structure (DS)"
 date: 2022-12-16
 description: "Physical, logical, abstract data types and data structure terminology simplifed with examples"
-tags: ["dsa"]
+tags: ["dsa", "algo"]
 showTableOfContents: true
 ---
 
